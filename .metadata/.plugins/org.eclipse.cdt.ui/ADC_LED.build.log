@@ -1,0 +1,50 @@
+05:45:56 **** Build of configuration Debug for project ADC_LED ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c:384:1: error: expected identifier or '(' before '}' token
+  384 | }
+      | ^
+../Core/Src/main.c:390:6: error: redefinition of 'SystemClock_Config'
+  390 | void SystemClock_Config(void)
+      |      ^~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:167:6: note: previous definition of 'SystemClock_Config' was here
+  167 | void SystemClock_Config(void)
+      |      ^~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:437:13: error: redefinition of 'MX_ADC2_Init'
+  437 | static void MX_ADC2_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:214:13: note: previous definition of 'MX_ADC2_Init' was here
+  214 | static void MX_ADC2_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:484:13: error: redefinition of 'MX_USART2_UART_Init'
+  484 | static void MX_USART2_UART_Init(void)
+      |             ^~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:261:13: note: previous definition of 'MX_USART2_UART_Init' was here
+  261 | static void MX_USART2_UART_Init(void)
+      |             ^~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:517:13: error: redefinition of 'MX_GPIO_Init'
+  517 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:294:13: note: previous definition of 'MX_GPIO_Init' was here
+  294 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:554:6: error: redefinition of 'HAL_ADC_ConvCpltCallback'
+  554 | void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef *hadc){
+      |      ^~~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:331:6: note: previous definition of 'HAL_ADC_ConvCpltCallback' was here
+  331 | void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef *hadc){
+      |      ^~~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:517:13: warning: 'MX_GPIO_Init' defined but not used [-Wunused-function]
+  517 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+../Core/Src/main.c:484:13: warning: 'MX_USART2_UART_Init' defined but not used [-Wunused-function]
+  484 | static void MX_USART2_UART_Init(void)
+      |             ^~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:437:13: warning: 'MX_ADC2_Init' defined but not used [-Wunused-function]
+  437 | static void MX_ADC2_Init(void)
+      |             ^~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+05:45:57 Build Failed. 7 errors, 3 warnings. (took 1s.583ms)
+

@@ -1,0 +1,33 @@
+2023-10-03 21:45:52,379 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 626636408 Bytes (730857472)
+2023-10-03 21:45:53,242 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 642336184 Bytes (730857472)
+2023-10-03 21:45:53,449 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 634269112 Bytes (730857472)
+2023-10-03 21:45:53,965 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-03 21:45:53,965 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-03 21:45:53,965 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-10-03 21:45:53,973 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-03 21:45:53,973 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-03 21:45:53,973 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.0.202302231600\\db\
+2023-10-03 21:45:54,405 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\MXTmpFiles\license.tmp_save
+2023-10-03 21:45:55,061 [INFO] CodeEngine:279 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\MXTmpFiles\license.tmp
+2023-10-03 21:45:55,220 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\MXTmpFiles\gpio.tmp_save
+2023-10-03 21:45:55,369 [INFO] CodeEngine:279 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\MXTmpFiles\gpio.tmp
+2023-10-03 21:45:55,547 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Src\stm32f1xx_it.c_save
+2023-10-03 21:45:55,684 [INFO] CodeEngine:279 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Src\stm32f1xx_it.c
+2023-10-03 21:45:55,691 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Inc\stm32f1xx_it.h_save
+2023-10-03 21:45:55,770 [INFO] CodeEngine:279 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Inc\stm32f1xx_it.h
+2023-10-03 21:45:55,870 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Src\stm32f1xx_hal_msp.c_save
+2023-10-03 21:45:56,004 [INFO] CodeEngine:279 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Src\stm32f1xx_hal_msp.c
+2023-10-03 21:45:56,009 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\MXTmpFiles\system.tmp_save
+2023-10-03 21:45:56,074 [INFO] CodeEngine:279 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\MXTmpFiles\system.tmp
+2023-10-03 21:45:56,089 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-10-03 21:45:56,178 [INFO] CodeEngine:335 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Inc\stm32f1xx_hal_conf.h
+2023-10-03 21:45:56,213 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Inc\main.h_save
+2023-10-03 21:45:56,293 [INFO] CodeEngine:279 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Inc\main.h
+2023-10-03 21:45:56,298 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Src\main.c_save
+2023-10-03 21:45:56,463 [INFO] CodeEngine:279 - Generated code: C:\Users\yunch\STM32CubeIDE\workspace_1.12.0\ADC_LED\Core\Src\main.c
+2023-10-03 21:45:57,327 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 235mS.
+2023-10-03 21:45:57,342 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-10-03 21:45:57,802 [INFO] ConfigFileManager:1483 - The Die is : DIE410
+2023-10-03 21:45:57,821 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-10-03 21:45:57,831 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-10-03 21:45:57,836 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE

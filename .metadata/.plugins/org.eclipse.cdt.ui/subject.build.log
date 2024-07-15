@@ -1,0 +1,10 @@
+05:46:36 **** Build of configuration Debug for project subject ****
+make -j8 all 
+arm-none-eabi-size   subject.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13480	    120	   1736	  15336	   3be8	subject.elf
+Finished building: default.size.stdout
+ 
+
+05:46:37 Build Finished. 0 errors, 0 warnings. (took 405ms)
+

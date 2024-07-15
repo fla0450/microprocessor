@@ -1,0 +1,10 @@
+05:45:55 **** Incremental Build of configuration Debug for project 26_pwm_adc ****
+make -j8 all 
+arm-none-eabi-size   26_pwm_adc.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11492	     20	   1692	  13204	   3394	26_pwm_adc.elf
+Finished building: default.size.stdout
+ 
+
+05:45:56 Build Finished. 0 errors, 0 warnings. (took 437ms)
+

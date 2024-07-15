@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:review Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:timer Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:subject Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_LED Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:NFD Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FND_rand Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:fnd_HELP_ELPH Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:timer_it Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:adc_fnd Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_LED_IT Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:fnd_clock Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:pwm1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:26_pwm_adc Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_3LED Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:moter Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:doter1 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:moter2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:moter3 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:32_servo Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:buzzer Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:music Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:26_pwm_adc\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:26_pwm_adc\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_LED\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_LED\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:review\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:review\ Debug/activeLaunchTarget=null\:---

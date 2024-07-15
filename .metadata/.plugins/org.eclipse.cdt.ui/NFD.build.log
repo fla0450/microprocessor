@@ -1,0 +1,10 @@
+05:46:01 **** Build of configuration Debug for project NFD ****
+make -j8 all 
+arm-none-eabi-size   NFD.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4980	    120	   1568	   6668	   1a0c	NFD.elf
+Finished building: default.size.stdout
+ 
+
+05:46:01 Build Finished. 0 errors, 0 warnings. (took 415ms)
+

@@ -1,0 +1,13 @@
+2024-07-15 12:12:07,659 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-07-15 12:12:08,035 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,041 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,042 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,042 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,042 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,045 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,045 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,045 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,045 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,045 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-07-15 12:12:08,122 [INFO] ApiDb:448 - Save user favorites file C:\Users\yunch/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2024-07-15 12:12:08,122 [INFO] ApiDb:452 - User favorites MCUs=[STM32F103RBT6]
